@@ -1,7 +1,5 @@
 # How to use
 
-Credits to [@techzizou](https://github.com/techzizou/yolov4-tiny-custom_Training).
-
 1. Clone the repo [opencv/opencv](https://github.com/opencv/opencv) on the main folder.
 1. Compile the opencv code.
 1. Clone the repo [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) on the main folder.
